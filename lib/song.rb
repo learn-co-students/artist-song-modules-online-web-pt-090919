@@ -1,5 +1,4 @@
 require 'pry'
-require_relative '../lib/artist.rb'
 
 class Song
 
